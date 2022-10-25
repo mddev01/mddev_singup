@@ -1,0 +1,9 @@
+.kam{
+    border: 1px solid red;
+}
+.yetarli{
+    border: 1px solid green;
+}
+input{
+    outline: none;
+}
